@@ -1,4 +1,5 @@
 **VBA Excel examples**
+**All the datasets used herein do not include any confidential data**
 
 #1 VBA_Sorting_Records
 VBA to sort dataset as per user's choice
