@@ -1,9 +1,9 @@
-**VBA Excel examples**
+**VBA Excel examples**<br>
 **All the datasets used herein do not include any confidential data**
 
 #1 VBA_Sorting_Records
 VBA to sort dataset as per user's choice
-- 3 ways of sorting data
+- 3 methods of sorting data
 - interactive button assigned with the macro
 - prompt box asking user to choose the sorting method
 - prompt box with confirmation, if the choice was successful
