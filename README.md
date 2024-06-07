@@ -15,5 +15,5 @@
 - subprocedure #2 FormatHeaders: formats headers of the tables 
 - subprocedure #3 LoopInsertFormatHeaders: loops, incl. For Each loop to go through the worksheets and If Statement preventing from multiple code run at the same table
 
-<img src="https://github.com/Anna-portfolio/VBA/assets/75646880/1031709b-b15e-4cfe-89c3-f94e293f2432" width="700px">
 <img src="https://github.com/Anna-portfolio/VBA/assets/75646880/78acdfda-7b84-4125-b418-bbaf082bd25c" width="700px">
+<img src="https://github.com/Anna-portfolio/VBA/assets/75646880/1031709b-b15e-4cfe-89c3-f94e293f2432" width="700px">
