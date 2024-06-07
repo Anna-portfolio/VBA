@@ -1,4 +1,3 @@
-**VBA Excel examples**<br>
 **All the datasets used herein do not include any confidential data**
 
 **VBA_01_Sorting_Records**
